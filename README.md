@@ -6,7 +6,7 @@ Tool to check stoichiometry problems
 
  Steps to using the Stoichiometry Calculator
 
-*Seperate each step by a new line
+*Seperate each step by a new line*
 1. Enter your starting unit. Acceptable inputs are Mass, Volume, Particles, and Moles
 2. Enter your ending unit. Acceptable inputs are Mass, Volume, Particles, and Moles
 3. Enter your given value that the probelm provides. Ex. If the problem gives 10.0L of H20 then enter 10.0
@@ -15,7 +15,6 @@ Tool to check stoichiometry problems
 6. Enter your ending mole number (The number at the top of the mole ratio)
 7. (If chosen  Mass as second option) Enter mass of ending element
 8. Answer along with it's unit appears
- */
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
